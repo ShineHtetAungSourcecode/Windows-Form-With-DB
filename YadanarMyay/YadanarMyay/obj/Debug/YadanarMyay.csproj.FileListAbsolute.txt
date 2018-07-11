@@ -1,0 +1,62 @@
+D:\C#.net yr1\VSSTUDIO IDE\YadanarMyay\YadanarMyay\bin\Debug\YadanarMyay.exe.config
+D:\C#.net yr1\VSSTUDIO IDE\YadanarMyay\YadanarMyay\bin\Debug\YadanarMyay.exe
+D:\C#.net yr1\VSSTUDIO IDE\YadanarMyay\YadanarMyay\bin\Debug\YadanarMyay.pdb
+D:\C#.net yr1\VSSTUDIO IDE\YadanarMyay\YadanarMyay\obj\Debug\YadanarMyay.csprojResolveAssemblyReference.cache
+D:\C#.net yr1\VSSTUDIO IDE\YadanarMyay\YadanarMyay\obj\Debug\YadanarMyay.PackageForm.resources
+D:\C#.net yr1\VSSTUDIO IDE\YadanarMyay\YadanarMyay\obj\Debug\YadanarMyay.Properties.Resources.resources
+D:\C#.net yr1\VSSTUDIO IDE\YadanarMyay\YadanarMyay\obj\Debug\YadanarMyay.csproj.GenerateResource.Cache
+D:\C#.net yr1\VSSTUDIO IDE\YadanarMyay\YadanarMyay\obj\Debug\YadanarMyay.exe
+D:\C#.net yr1\VSSTUDIO IDE\YadanarMyay\YadanarMyay\obj\Debug\YadanarMyay.pdb
+D:\C#.net yr1\VSSTUDIO IDE\YadanarMyay\YadanarMyay\obj\Debug\YadanarMyay.PackageDisplay.resources
+D:\C#.net yr1\VSSTUDIO IDE\YadanarMyay\YadanarMyay\obj\Debug\YadanarMyay.CustomerRegistration.resources
+D:\C#.net yr1\VSSTUDIO IDE\YadanarMyay\YadanarMyay\obj\Debug\YadanarMyay.RegisterFormcs.resources
+D:\C#.net yr1\VSSTUDIO IDE\YadanarMyay\YadanarMyay\obj\Debug\YadanarMyay.Login.resources
+D:\C#.net yr1\VSSTUDIO IDE\YadanarMyay\YadanarMyay\obj\Debug\YadanarMyay.Welcome.resources
+D:\C#.net yr1\Assignment2\YadanarMyay\YadanarMyay\bin\Debug\YadanarMyay.exe.config
+D:\C#.net yr1\Assignment2\YadanarMyay\YadanarMyay\obj\Debug\YadanarMyay.exe
+D:\C#.net yr1\Assignment2\YadanarMyay\YadanarMyay\obj\Debug\YadanarMyay.pdb
+D:\C#.net yr1\Assignment2\YadanarMyay\YadanarMyay\bin\Debug\YadanarMyay.exe
+D:\C#.net yr1\Assignment2\YadanarMyay\YadanarMyay\bin\Debug\YadanarMyay.pdb
+D:\C#.net yr1\Assignment2\YadanarMyay\YadanarMyay\obj\Debug\YadanarMyay.csprojResolveAssemblyReference.cache
+D:\C#.net yr1\Assignment2\YadanarMyay\YadanarMyay\obj\Debug\YadanarMyay.CustomerRegistration.resources
+D:\C#.net yr1\Assignment2\YadanarMyay\YadanarMyay\obj\Debug\YadanarMyay.Login.resources
+D:\C#.net yr1\Assignment2\YadanarMyay\YadanarMyay\obj\Debug\YadanarMyay.PackageDisplay.resources
+D:\C#.net yr1\Assignment2\YadanarMyay\YadanarMyay\obj\Debug\YadanarMyay.PackageForm.resources
+D:\C#.net yr1\Assignment2\YadanarMyay\YadanarMyay\obj\Debug\YadanarMyay.Properties.Resources.resources
+D:\C#.net yr1\Assignment2\YadanarMyay\YadanarMyay\obj\Debug\YadanarMyay.Welcome.resources
+D:\C#.net yr1\Assignment2\YadanarMyay\YadanarMyay\obj\Debug\YadanarMyay.csproj.GenerateResource.Cache
+D:\C#.net yr1\Assignment2\YadanarMyay\YadanarMyay\obj\Debug\YadanarMyay.ViewReport.resources
+D:\C#.net yr1\Assignment2\YadanarMyay\YadanarMyay\obj\Debug\YadanarMyay.AdminSide.resources
+D:\Year 1\C#.net yr1\Assignment2\YadanarMyay\YadanarMyay\bin\Debug\YadanarMyay.exe.config
+D:\Year 1\C#.net yr1\Assignment2\YadanarMyay\YadanarMyay\obj\Debug\YadanarMyay.exe
+D:\Year 1\C#.net yr1\Assignment2\YadanarMyay\YadanarMyay\obj\Debug\YadanarMyay.pdb
+D:\Year 1\C#.net yr1\Assignment2\YadanarMyay\YadanarMyay\bin\Debug\YadanarMyay.exe
+D:\Year 1\C#.net yr1\Assignment2\YadanarMyay\YadanarMyay\bin\Debug\YadanarMyay.pdb
+D:\Year 1\C#.net yr1\Assignment2\YadanarMyay\YadanarMyay\obj\Debug\YadanarMyay.csprojResolveAssemblyReference.cache
+D:\Year 1\C#.net yr1\Assignment2\YadanarMyay\YadanarMyay\obj\Debug\YadanarMyay.AdminSide.resources
+D:\Year 1\C#.net yr1\Assignment2\YadanarMyay\YadanarMyay\obj\Debug\YadanarMyay.CustomerRegistration.resources
+D:\Year 1\C#.net yr1\Assignment2\YadanarMyay\YadanarMyay\obj\Debug\YadanarMyay.Login.resources
+D:\Year 1\C#.net yr1\Assignment2\YadanarMyay\YadanarMyay\obj\Debug\YadanarMyay.PackageDisplay.resources
+D:\Year 1\C#.net yr1\Assignment2\YadanarMyay\YadanarMyay\obj\Debug\YadanarMyay.PackageForm.resources
+D:\Year 1\C#.net yr1\Assignment2\YadanarMyay\YadanarMyay\obj\Debug\YadanarMyay.Properties.Resources.resources
+D:\Year 1\C#.net yr1\Assignment2\YadanarMyay\YadanarMyay\obj\Debug\YadanarMyay.ViewReport.resources
+D:\Year 1\C#.net yr1\Assignment2\YadanarMyay\YadanarMyay\obj\Debug\YadanarMyay.Welcome.resources
+D:\Year 1\C#.net yr1\Assignment2\YadanarMyay\YadanarMyay\obj\Debug\YadanarMyay.csproj.GenerateResource.Cache
+D:\C#.net Tech\C#.net yr1\Assignment2\YadanarMyay\YadanarMyay\bin\Debug\YadanarMyay.exe.config
+D:\C#.net Tech\C#.net yr1\Assignment2\YadanarMyay\YadanarMyay\obj\Debug\YadanarMyay.exe
+D:\C#.net Tech\C#.net yr1\Assignment2\YadanarMyay\YadanarMyay\obj\Debug\YadanarMyay.pdb
+D:\Studiess\CSharp\YadanarMyay\YadanarMyay\YadanarMyay\bin\Debug\YadanarMyay.exe.config
+D:\Studiess\CSharp\YadanarMyay\YadanarMyay\YadanarMyay\obj\Debug\YadanarMyay.exe
+D:\Studiess\CSharp\YadanarMyay\YadanarMyay\YadanarMyay\obj\Debug\YadanarMyay.pdb
+D:\Studiess\CSharp\YadanarMyay\YadanarMyay\YadanarMyay\bin\Debug\YadanarMyay.exe
+D:\Studiess\CSharp\YadanarMyay\YadanarMyay\YadanarMyay\bin\Debug\YadanarMyay.pdb
+D:\Studiess\CSharp\YadanarMyay\YadanarMyay\YadanarMyay\obj\Debug\YadanarMyay.csprojResolveAssemblyReference.cache
+D:\Studiess\CSharp\YadanarMyay\YadanarMyay\YadanarMyay\obj\Debug\YadanarMyay.AdminSide.resources
+D:\Studiess\CSharp\YadanarMyay\YadanarMyay\YadanarMyay\obj\Debug\YadanarMyay.CustomerRegistration.resources
+D:\Studiess\CSharp\YadanarMyay\YadanarMyay\YadanarMyay\obj\Debug\YadanarMyay.Login.resources
+D:\Studiess\CSharp\YadanarMyay\YadanarMyay\YadanarMyay\obj\Debug\YadanarMyay.PackageDisplay.resources
+D:\Studiess\CSharp\YadanarMyay\YadanarMyay\YadanarMyay\obj\Debug\YadanarMyay.PackageForm.resources
+D:\Studiess\CSharp\YadanarMyay\YadanarMyay\YadanarMyay\obj\Debug\YadanarMyay.Properties.Resources.resources
+D:\Studiess\CSharp\YadanarMyay\YadanarMyay\YadanarMyay\obj\Debug\YadanarMyay.ViewReport.resources
+D:\Studiess\CSharp\YadanarMyay\YadanarMyay\YadanarMyay\obj\Debug\YadanarMyay.Welcome.resources
+D:\Studiess\CSharp\YadanarMyay\YadanarMyay\YadanarMyay\obj\Debug\YadanarMyay.csproj.GenerateResource.Cache
